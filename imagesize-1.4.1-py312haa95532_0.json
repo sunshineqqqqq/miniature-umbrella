@@ -1,0 +1,45 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\imagesize-1.4.1-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/imagesize-1.4.1.dist-info/INSTALLER",
+    "Lib/site-packages/imagesize-1.4.1.dist-info/LICENSE.rst",
+    "Lib/site-packages/imagesize-1.4.1.dist-info/METADATA",
+    "Lib/site-packages/imagesize-1.4.1.dist-info/RECORD",
+    "Lib/site-packages/imagesize-1.4.1.dist-info/REQUESTED",
+    "Lib/site-packages/imagesize-1.4.1.dist-info/WHEEL",
+    "Lib/site-packages/imagesize-1.4.1.dist-info/direct_url.json",
+    "Lib/site-packages/imagesize-1.4.1.dist-info/top_level.txt",
+    "Lib/site-packages/imagesize/__init__.py",
+    "Lib/site-packages/imagesize/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/imagesize/__pycache__/imagesize.cpython-312.pyc",
+    "Lib/site-packages/imagesize/imagesize.py",
+    ".nonadmin"
+  ],
+  "fn": "imagesize-1.4.1-py312haa95532_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\imagesize-1.4.1-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "96cb1ef79908f631473e1d4e45181e0a",
+  "name": "imagesize",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\imagesize-1.4.1-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::imagesize==1.4.1=py312haa95532_0[md5=96cb1ef79908f631473e1d4e45181e0a]",
+  "sha256": "75a4762cfe1eb8250ceb25247b3c4081d1522ba04f254dcd522df4ccbe7c7266",
+  "size": 17001,
+  "subdir": "win-64",
+  "timestamp": 1699476360000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/imagesize-1.4.1-py312haa95532_0.conda",
+  "version": "1.4.1"
+}

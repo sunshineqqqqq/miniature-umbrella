@@ -1,0 +1,60 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\w3lib-2.1.2-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/w3lib-2.1.2.dist-info/INSTALLER",
+    "Lib/site-packages/w3lib-2.1.2.dist-info/LICENSE",
+    "Lib/site-packages/w3lib-2.1.2.dist-info/METADATA",
+    "Lib/site-packages/w3lib-2.1.2.dist-info/RECORD",
+    "Lib/site-packages/w3lib-2.1.2.dist-info/REQUESTED",
+    "Lib/site-packages/w3lib-2.1.2.dist-info/WHEEL",
+    "Lib/site-packages/w3lib-2.1.2.dist-info/direct_url.json",
+    "Lib/site-packages/w3lib-2.1.2.dist-info/top_level.txt",
+    "Lib/site-packages/w3lib/__init__.py",
+    "Lib/site-packages/w3lib/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/w3lib/__pycache__/_infra.cpython-312.pyc",
+    "Lib/site-packages/w3lib/__pycache__/_types.cpython-312.pyc",
+    "Lib/site-packages/w3lib/__pycache__/_url.cpython-312.pyc",
+    "Lib/site-packages/w3lib/__pycache__/encoding.cpython-312.pyc",
+    "Lib/site-packages/w3lib/__pycache__/html.cpython-312.pyc",
+    "Lib/site-packages/w3lib/__pycache__/http.cpython-312.pyc",
+    "Lib/site-packages/w3lib/__pycache__/url.cpython-312.pyc",
+    "Lib/site-packages/w3lib/__pycache__/util.cpython-312.pyc",
+    "Lib/site-packages/w3lib/_infra.py",
+    "Lib/site-packages/w3lib/_types.py",
+    "Lib/site-packages/w3lib/_url.py",
+    "Lib/site-packages/w3lib/encoding.py",
+    "Lib/site-packages/w3lib/html.py",
+    "Lib/site-packages/w3lib/http.py",
+    "Lib/site-packages/w3lib/py.typed",
+    "Lib/site-packages/w3lib/url.py",
+    "Lib/site-packages/w3lib/util.py",
+    ".nonadmin"
+  ],
+  "fn": "w3lib-2.1.2-py312haa95532_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\w3lib-2.1.2-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "0c282d7dec59b2d39fd5f0f6fd51c096",
+  "name": "w3lib",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\w3lib-2.1.2-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::w3lib==2.1.2=py312haa95532_0[md5=0c282d7dec59b2d39fd5f0f6fd51c096]",
+  "sha256": "65997607cca6154072c285ba0a05a29a61327df6edf1d300c4601bd2671f9951",
+  "size": 43356,
+  "subdir": "win-64",
+  "timestamp": 1709162610000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/w3lib-2.1.2-py312haa95532_0.conda",
+  "version": "2.1.2"
+}
